@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://agricult.orbitinno.com/sitemap-index.xml
